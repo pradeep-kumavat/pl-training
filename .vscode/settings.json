@@ -1,6 +1,7 @@
 {
     "java.dependency.syncWithFolderExplorer": false,
     "files.associations": {
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "stdio.h": "c"
     }
 }
